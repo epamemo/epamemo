@@ -37,10 +37,4 @@
   <img src="https://streak-stats.demolab.com?user=epamemo&locale=en&mode=daily&theme=blueberry&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/epamemo/epamemo/output/snake.svg" alt="Snake animation" />
-
-###
-
-###
