@@ -49,19 +49,9 @@ const epamemo = {
 | [**Workflow-CI**](https://github.com/epamemo/Workflow-CI) | Automated model retraining pipeline that builds and pushes a Docker image | `MLflow` `GitHub Actions` `Docker` |
 | [**Eksperimen-SML**](https://github.com/epamemo/Eksperimen-SML) | Telco churn experiment with an automated preprocessing workflow | `Python` `Jupyter` `GitHub Actions` |
 
-## `$ tail -n 2 medium.log`
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=2&username=epamemo&theme=blueberry" alt="Latest Medium posts" />
-</div>
-
 ## `$ git log --stat`
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=epamemo&layout=compact&langs_count=5&card_width=320&hide_border=true&theme=transparent&title_color=3fb950&text_color=c9d1d9" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=epamemo&layout=compact&langs_count=5&card_width=320&hide_border=true&theme=transparent&title_color=1a7f37&text_color=24292f" height="150" alt="Top languages" />
-  </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=epamemo&mode=daily&hide_border=true&border_radius=5&background=00000000&ring=3fb950&fire=3fb950&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=3fb950&sideLabels=8b949e&dates=8b949e" />
     <img src="https://streak-stats.demolab.com?user=epamemo&mode=daily&hide_border=true&border_radius=5&background=00000000&ring=1a7f37&fire=1a7f37&currStreakNum=24292f&sideNums=24292f&currStreakLabel=1a7f37&sideLabels=57606a&dates=57606a" height="150" alt="Contribution streak" />
